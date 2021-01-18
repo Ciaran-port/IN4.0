@@ -1,0 +1,23 @@
+body
+{
+    padding:10%;
+}
+
+.role
+{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:0%;
+}
+
+.timeline
+{
+    color:black;
+    font-family: cursive;
+    margin:0%;
+}
+
+h3{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
